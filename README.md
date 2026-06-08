@@ -6,13 +6,9 @@ My personal website → [mmaa.dev](https://mmaa.dev)
 
 React · Vite · Tailwind · Framer Motion
 
-## Dev
+## Deploy
 
 ```bash
 npm install
 npm run dev
 ```
-
-## Deploy
-
-Déployé via Coolify (build Dockerfile, reverse proxy Traefik, HTTPS automatique).
